@@ -33,10 +33,10 @@ Todo-App/
 
 ---
 
-## 📸 Screenshots
+## 🔗 Live Demo
 
-
-
+Check out the live version of the app here:  
+👉 [Click to open Todo App](to-do-list-by-soham.vercel.app)
 ---
 
 ## 🚀 How to Run
